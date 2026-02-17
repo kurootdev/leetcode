@@ -1,7 +1,7 @@
 class Solution {
     public List<String> readBinaryWatch(int turnedOn) {
           List<String> result = new ArrayList<>();
-        // kuroo
+        // kuroot question
         for(int h = 0; h < 12; h++) {
             for(int m = 0; m < 60; m++) {
                 
